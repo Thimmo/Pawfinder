@@ -58,7 +58,7 @@ nav button:hover {
 }
 
 .hero-section {
-    background-image: linear-gradient(rgba(17, 1, 1, 0.738)), url(/src/assets/Dog-woman.jpg);
+    background-image: linear-gradient(rgba(17, 1, 1, 0.738)), url(./src/assets/Dog-woman.jpg);
     background-size: cover;
     background-position: center;
     height: 85vh;
